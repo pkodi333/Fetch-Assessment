@@ -1,8 +1,7 @@
 
 
 #  Fetch Rewards – Data Analyst Take-Home Assessment
-
-Hi there! 👋  
+ 
 This repository contains my submission for the **Fetch Data Analyst Take-Home Exercise**. My goal in this project was not just to answer the questions, but to demonstrate how I approach ambiguous datasets, ensure data quality, and clearly communicate findings to both technical and non-technical audiences.
 
 ---
@@ -67,7 +66,7 @@ I approached this message as I would in a real business setting, tailoring to so
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - SQL (PostgreSQL)
 - Python (for EDA and validation)
